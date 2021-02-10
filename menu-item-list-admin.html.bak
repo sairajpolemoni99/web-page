@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <title>Document</title>
+  <link rel="stylesheet" href="assgn2.css"></link>
+ </head>
+ <body>
+ <div>
+ <div id="sai">
+<label id="l1">truYum</label>
+ <a href="" id="a3">Menu</a>
+</div>
+
+<div id="psr">
+<label id="l3">Menu Items</label>
+<table>
+<tr>
+	<td><strong>Name</strong></td>
+	<td><strong class="ppp">Price</strong></td>
+	<td><strong id="trs">Active</strong></td>
+	<td><strong id="tdp">Date of Launch</strong></td>
+	<td><strong id="bjp">Category</strong></td>
+	<td><strong id="jsp">Free Delivery</strong></td>
+	<td><strong id="aicp">Action</strong></td>
+</tr>
+<tr>
+	<td><label>Sandwich</label></td>
+	<td><label class="ppp">Rs. 99.00</label></td>
+	<td><label class="rrr">Yes</label></td>
+	<td><label class="sss">15/03/2017</label></td>
+	<td><label class="ttt">Main Course</label></td>
+	<td><label class="uuu">Yes</label></td>
+	<td><a href="" class="qqq">Edit</a></td>
+</tr>
+<tr>
+	<td><label>Burger</label></td>
+	<td><label class="ppp">Rs. 129.00</label></td>
+	<td><label class="rrr">Yes</label></td>
+	<td><label class="sss">23/12/2017</label></td>
+	<td><label class="ttt">Main Course</label></td>
+	<td><label class="uuu">No</label></td>
+	<td><a href="" class="qqq">Edit</a></td>
+</tr>
+<tr>
+	<td><label>Pizza</label></td>
+	<td><label class="ppp">Rs. 149.00</label></td>
+	<td><label class="rrr">Yes</label></td>
+	<td><label class="sss">21/08/2017</label></td>
+	<td><label class="ttt">Main Course</label></td>
+	<td><label class="uuu">No</label></td>
+	<td><a href="" class="qqq">Edit</a></td>
+</tr>
+<tr>
+	<td><label>French Fries</label></td>
+	<td><label class="ppp">Rs. 57.00</label></td>
+	<td><label class="rrr">No</label></td>
+	<td><label class="sss">02/07/2017</label></td>
+	<td><label class="vvv">Starters</label></td>
+	<td><label class="uuu">Yes</label></td>
+	<td><a href="" class="qqq">Edit</a></td>
+</tr>
+<tr>
+	<td><label>Chocolate Brownie</label></td>
+	<td><label class="ppp">Rs. 32.00</label></td>
+	<td><label class="rrr">Yes</label></td>
+	<td><label class="sss">02/11/2022</label></td>
+	<td><label class="vvv">Dessert</label></td>
+	<td><label class="uuu">Yes</label></td>
+	<td><a href="" class="qqq">Edit</a></td>
+</tr>
+</table>
+ </div>
+ <div id="raj">
+ <label id="l2"><strong>Copyright © 2019</strong></label>
+ </div>
+ </div>
+</body>
+</html>

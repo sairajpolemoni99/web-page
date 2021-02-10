@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <title>Document</title>
+  <link rel="stylesheet" href="assgn2.css"></link>
+ </head>
+ <body>
+ <div>
+ <div id="sai">
+<label id="l1">truYum</label>
+ <a href="" id="a1">Cart</a>
+ <a href="" id="a2">Menu</a>
+ </div>
+ <div id="psr">
+<label id="l3">Menu Items</label>
+<br></br>
+<label id="l7">Item added to Cart Successfully</label>
+<table>
+<tr>
+	<td><strong class="c9">Name</strong></td>
+	<td><strong id="aaa">Free Delivery</strong></td>
+	<td><strong id="bbb">Price</strong></td>
+	<td><strong id="ccc">Category</strong></td>
+	<td><strong id="ddd">Action</strong></td>
+</tr>
+<tr>
+	<td><label class="c9">Sandwich</label></td>
+	<td><label class="c5">Yes</label></td>
+	<td><label class="c6">Rs. 99.00</label></td>
+	<td><label class="c7">Main Course</label></td>
+	<td><a href="" class="c8">Add to Cart</a></td>
+</tr>
+<tr>
+	<td><label class="c9">Burger</label></td>
+	<td><label class="c5">No</label></td>
+	<td><label class="c6">Rs. 129.00</label></td>
+	<td><label class="c7">Main Course</label></td>
+	<td><a href="" class="c8">Add to Cart</a></td>
+</tr>
+<tr>
+	<td><label class="c9">Pizza</label></td>
+	<td><label class="c5">No</label></td>
+	<td><label class="c6">Rs. 149.00</label></td>
+	<td><label class="c7">Main Course</label></td>
+	<td><a href="" class="c8">Add to Cart</a></td>
+</tr>
+</table>
+</div>
+ <div id="raj">
+ <label id="l2"><strong>Copyright © 2019</strong></label>
+ </div> 
+  </div>
+  
+ </body>
+</html>

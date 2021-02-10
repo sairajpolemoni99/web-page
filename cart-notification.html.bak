@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <title>Document</title>
+  <link rel="stylesheet" href="assgn2.css"></link>
+ </head>
+ <body>
+ <div>
+ <div id="sai">
+<label id="l1">truYum</label>
+ <a href="" id="a1">Cart</a>
+ <a href="" id="a2">Menu</a>
+ </div>
+ <div id="psr">
+<label id="l3">Cart</label>
+<br></br>
+<label id="l8">Item removed from Cart Successfully</label>
+<table>
+<tr>
+	<td><strong>Name</strong></td>
+	<td><strong class="hhh">Free Delivery</strong></td>
+	<td><strong class="iii">Price</strong></td>
+	<td></td>
+</tr>
+<tr>
+	<td><label>Sandwich</label></td>
+	<td><label class="hhh">Yes</label></td>
+	<td><label class="iii">Rs. 99.00</label></td>
+	<td><a href="" class="jjj">Delete</a></td>
+</tr>
+<tr>
+	<td><label>Burger</label></td>
+	<td><label class="hhh">No</label></td>
+	<td><label class="iii">Rs. 129.00</label></td>
+	<td><a href="" class="jjj">Delete</a></td>
+</tr>
+<tr>
+	<td></td>
+	<td><strong class="hhh">Total</strong></td>
+	<td><strong class="iii">Rs. 228.00</strong></td>
+	<td></td>
+</tr>
+</table>
+</div>
+ <div id="raj">
+ <label id="l2"><strong>Copyright © 2019</strong></label>
+ </div>
+ </div>
+  
+ </body>
+</html>
